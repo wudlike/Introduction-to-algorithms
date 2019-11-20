@@ -1,2 +1,2 @@
 # Introduction-to-algorithms
-UCAS lesson
+UCAS course in the autumn of 2019
